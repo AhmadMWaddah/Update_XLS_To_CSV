@@ -1,5 +1,4 @@
-"""
-This script processes updated product data and merges it with existing exported data.
+### This script processes updated product data and merges it with existing exported data.
 
 **Key functionalities:**
 
@@ -27,5 +26,4 @@ The script expects the following files in the same directory:
 - `pandas`
 - `re`
 - `xlrd`
-"""
 
